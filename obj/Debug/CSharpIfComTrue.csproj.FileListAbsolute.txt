@@ -1,0 +1,6 @@
+c:\users\mike\documents\visual studio 2015\Projects\CSharpIfComTrue\CSharpIfComTrue\bin\Debug\CSharpIfComTrue.exe.config
+c:\users\mike\documents\visual studio 2015\Projects\CSharpIfComTrue\CSharpIfComTrue\bin\Debug\CSharpIfComTrue.exe
+c:\users\mike\documents\visual studio 2015\Projects\CSharpIfComTrue\CSharpIfComTrue\bin\Debug\CSharpIfComTrue.pdb
+c:\users\mike\documents\visual studio 2015\Projects\CSharpIfComTrue\CSharpIfComTrue\obj\Debug\CSharpIfComTrue.csprojResolveAssemblyReference.cache
+c:\users\mike\documents\visual studio 2015\Projects\CSharpIfComTrue\CSharpIfComTrue\obj\Debug\CSharpIfComTrue.exe
+c:\users\mike\documents\visual studio 2015\Projects\CSharpIfComTrue\CSharpIfComTrue\obj\Debug\CSharpIfComTrue.pdb
